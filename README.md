@@ -6,7 +6,7 @@ I am **Suryansh Bhatnagar**, currently pursuing **B.Tech in Computer Science and
 
 📘 **About This Repository**
 
-This repository is a comprehensive collection of my problem-solving journey and development work in Computer Science. It includes solutions to problems from LeetCode and other competitive programming platforms, along with a growing set of mini-projects and practical implementations.
+This repository is a comprehensive collection of my problem-solving journey and development work in Computer Science. It includes solutions to problems from LeetCode and other competitive programming platforms.
 
 🎯 **Purpose & Vision**
 
